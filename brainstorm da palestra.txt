@@ -1,0 +1,34 @@
+- Título?
+
+- Software Livre
+- Python (Por que a gente gosta de python?)
+- Comunidades Open-Source
+
+- Motivação de quem trabalha com opensource
+
+- História do PUG-PE
+- 
+
+- Slide 49 de marcel (atualizar)
+	- TraineeWorld
+	- Dr. Busca
+	- Trouver
+	- Labcodes
+	- Pycursos
+	- Orygens
+	- Atepassar
+	- Widevis
+	- Ogilvy
+	- Tangerina Lab
+	- Idealizza
+	- Especializa
+	- 
+	
+
+- E o futuro?
+
+- PythonBrasil[8]
+- Desafios para o futuro
+- Terminar o que a gente começa! 
+- Fomentar comunidades python no Nordeste
+- PythonBrasil[?] em recife!
